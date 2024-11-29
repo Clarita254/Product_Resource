@@ -53,5 +53,5 @@ curl -X POST http://127.0.0.1:5000/products \
 -d '{"name": "Laptop", "description": "High-Performance and good storage", "price": 25000}'
 
 
-![Product Image](Product_Resource/README.md/Images/image1.png)
-![Product Image](Product_Resource/README.md/Images/image2.png)
+![Product Image](ProjectCat2/Product_Resource/README.md/Images/image1.png)
+![Product Image](ProjectCat2/Product_Resource/README.md/Images/image2.png)
