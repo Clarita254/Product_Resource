@@ -5,7 +5,7 @@ app = Flask(__name__)
 # In-memory product list to store products
 products = []
 
-# Product class to represent the product data
+# Product class to represent the product fields
 class Product:
     def __init__(self, name, description, price):
         self.name = name
