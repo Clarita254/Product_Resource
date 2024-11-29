@@ -1,3 +1,8 @@
+## Student Details
+
+Admission No. 167753 
+Group: BBIT 2.2C
+
 
 #  REST API for Product Resource Management
 This project is based on building a simple API in python which uses Flask framework to manage products.The API allows the user to create products and retrieve a list of all the products.
